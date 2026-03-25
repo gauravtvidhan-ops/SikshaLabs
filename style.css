@@ -1,0 +1,61 @@
+/* Poori page ki styling */
+body {
+  background-color: #05080F;
+  color: white;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+/* Login box */
+.login-box {
+  width: 360px;
+  margin: 100px auto;
+  background-color: #0D1220;
+  padding: 40px;
+  border-radius: 16px;
+  border: 1px solid #1a2540;
+}
+
+/* Heading */
+h1 {
+  color: #1A6FFF;
+  text-align: center;
+  margin-bottom: 8px;
+}
+
+/* Tagline */
+p {
+  text-align: center;
+  color: #7A8AAA;
+  margin-bottom: 32px;
+}
+
+/* Input boxes */
+input {
+  width: 100%;
+  padding: 12px;
+  margin-bottom: 16px;
+  background-color: #131929;
+  border: 1px solid #1a2540;
+  border-radius: 8px;
+  color: white;
+  font-size: 14px;
+  box-sizing: border-box;
+}
+
+/* Login button */
+button {
+  width: 100%;
+  padding: 14px;
+  background-color: #1A6FFF;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0A4FCC;
+}
